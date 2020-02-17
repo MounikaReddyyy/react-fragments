@@ -10,6 +10,17 @@ const ModalDiv = document.getElementById('Modal');
   }
 
 
+
+
+
+
+
+
+
+
+
+
+
   componentDidMount() {
     ModalDiv.appendChild(this.el);
   }
