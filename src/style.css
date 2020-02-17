@@ -1,0 +1,18 @@
+h1, p {
+    font-family: Lato;
+  }
+
+  .modal{
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+    background: grey;
+  }
+
+  .wrapper{
+    position: relative;
+    height: 100px;
+    max-width: 200px;
+  }
