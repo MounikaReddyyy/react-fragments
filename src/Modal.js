@@ -9,18 +9,6 @@ const ModalDiv = document.getElementById('Modal');
     this.el = document.createElement('div');
   }
 
-
-
-
-
-
-
-
-
-
-
-
-
   componentDidMount() {
     ModalDiv.appendChild(this.el);
   }
